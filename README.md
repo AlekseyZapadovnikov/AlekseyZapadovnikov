@@ -7,11 +7,11 @@
 <a href="https://tech.wildberries.ru/golang">wb-техношкола</a>,  
 <a href="https://itmo.ru/ru/viewfaculty/104/fakultet_programmnoy_inzhenerii_i_kompyuternoy_tehniki.htm">ФПИиКТ ИТМО</a>.
 
-- 📝 I somtimes write articles on [https://t.me/govaryu_ProGo](https://t.me/govaryu_ProGo)
-
-- 📫 How to reach me **zapadovnikov145@gmail.com** or in telegram @w_st3r
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Yp-HfIl-RhjhI3WqP5M85dTpuPIpVgPC?usp=sharing](https://drive.google.com/drive/folders/1Yp-HfIl-RhjhI3WqP5M85dTpuPIpVgPC?usp=sharing)
+- 📝 I sometimes write articles on [my Telegram channel](https://t.me/govaryu_ProGo)
+  
+- 📫 How to reach me: **zapadovnikov145@gmail.com** or in Telegram [@w_st3r](https://t.me/w_st3r)
+  
+- 📄 Know about my experience: [my portfolio/resume folder](https://drive.google.com/drive/folders/1Yp-HfIl-RhjhI3WqP5M85dTpuPIpVgPC?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
