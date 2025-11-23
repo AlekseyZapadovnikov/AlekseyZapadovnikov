@@ -15,7 +15,7 @@
 </p>
 
 <p style="font-size: 1.2em;">
-  - 📄 Know about my experience: 
+  - 📄 Watch my resume here: 
   <a href="https://drive.google.com/drive/folders/1Yp-HfIl-RhjhI3WqP5M85dTpuPIpVgPC?usp=sharing">my portfolio/resume folder</a>
 </p>
 
