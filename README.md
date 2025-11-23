@@ -10,10 +10,6 @@
 </p>
 
 <p style="font-size: 1.2em;">
-  - 📝 I sometimes write articles on <a href="https://t.me/govaryu_ProGo">my Telegram channel</a>
-</p>
-
-<p style="font-size: 1.2em;">
   - 📫 How to reach me: <strong>zapadovnikov145@gmail.com</strong> or in Telegram 
   <a href="https://t.me/w_st3r">@w_st3r</a>
 </p>
