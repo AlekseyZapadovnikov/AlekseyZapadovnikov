@@ -19,10 +19,10 @@
   <a href="https://drive.google.com/drive/folders/1Yp-HfIl-RhjhI3WqP5M85dTpuPIpVgPC?usp=sharing">my portfolio/resume folder</a>
 </p>
 
-<h3 align="left">my LeetCode:</h3>
+<!-- <h3 align="left">my LeetCode:</h3>
 <p align="left">
 <a href="https://leetcode.com/u/heYemqeTPC/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
