@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseyzapadovnikov&label=Profile%20views&color=0e75b6&style=flat" alt="alekseyzapadovnikov" /> </p>
 
 <p style="font-size: 1.2em;">
-  - 🌱 I’m currently learning in wb-техношколе и в университете ИТМО:  
+  - 🌱 I’m currently learning at wb-техношкола, YADRO practical courses, and ITMO University:  
   <a href="https://tech.wildberries.ru/golang">wb-техношкола</a>,  
+  <a href="https://edu.yadro.com/practical-courses/?%20course=development-go">YADRO practical courses</a>,  
   <a href="https://itmo.ru/ru/viewfaculty/104/fakultet_programmnoy_inzhenerii_i_kompyuternoy_tehniki.htm">ФПИиКТ ИТМО</a>.
 </p>
 
@@ -60,7 +61,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseyzapadovnikov&show_icons=true&locale=en&layout=compact" alt="alekseyzapadovnikov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekseyzapadovnikov&show_icons=true&locale=en" alt="alekseyzapadovnikov" /></p>
