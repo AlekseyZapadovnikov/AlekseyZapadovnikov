@@ -117,7 +117,7 @@ I'm Aleks — a beginner but ambitious **Golang Backend Developer** focused on b
       <h3 align="center">🔎 xkcdSS</h3>
       <p align="center">
         <a href="https://github.com/AlekseyZapadovnikov/xkcdSS">
-          <img src="./assets/xkcdSS.png" width="450" alt="xkcdSS preview" />
+          <img src="./assets/xkcdSS.jpg" width="450" alt="xkcdSS preview" />
         </a>
       </p>
       <p align="center">
